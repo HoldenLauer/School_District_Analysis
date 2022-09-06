@@ -14,10 +14,13 @@ With the potential of academic dishonesty in the Thomas High School by ninth gra
   - Thomas High School is still the second best performing school in the district with an overall passing rate of 90.63% among their tenth through twelfth graders.
 
 ![Spending Summary](https://user-images.githubusercontent.com/110861876/188744961-b3b80188-7b0a-4a9b-961b-cfabf28fe52d.png)
+
 With school spending <$584 has the best scores of all the other funding overall; therefor, there are more factors than more funding that lead to average student scores.
 ![Size Summary](https://user-images.githubusercontent.com/110861876/188745661-723b6c99-4912-463b-9ec6-ff102972f085.png)
+
 With school size larger schools have the lowest student scores and passing percentages, and the medium and small are quite similar around a 1% difference. From this data we can conclude that with less students they are learning and performing better in a smaller setting.
 ![Type Summary](https://user-images.githubusercontent.com/110861876/188746349-9aab044e-bc30-4ea9-80d6-1dc25493db03.png)
+
 With the two types of schools (charter and district) charter is better at math (by around 6 points and better at reading by 2 points. Overall passing is where the biggest difference is where charter schools have 36% better percentage than district schools.
 ## Summary
 Replacing the ninth graders' scores with NaN caused Thomas High School's overall passing percentages and average scores to decrease drastically. Also, this occurred throughout the district with both math and reading scores seeing a decrease, even with the overall passing of the students. Moreover, Thomas High School fell out of the top 5 schools in the district. Within the large schools it caused those scores and passing percentages to drop as well.
