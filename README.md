@@ -12,6 +12,7 @@ With the potential of academic dishonesty in the Thomas High School by ninth gra
   - The overall passing percentages of Thomas High School decreased by 0.11% and the average scores of Thomas High School for math and reading increased by 0.06
   - For the spending range of $630-644 per student, the overall passing percentage decreased by 0.1%
   - Thomas High School is still the second best performing school in the district with an overall passing rate of 90.63% among their tenth through twelfth graders.
+
 ![Spending Summary](https://user-images.githubusercontent.com/110861876/188744961-b3b80188-7b0a-4a9b-961b-cfabf28fe52d.png)
 With school spending <$584 has the best scores of all the other funding overall; therefor, there are more factors than more funding that lead to average student scores.
 ![Size Summary](https://user-images.githubusercontent.com/110861876/188745661-723b6c99-4912-463b-9ec6-ff102972f085.png)
