@@ -1,6 +1,6 @@
 # School_District_Analysis
 ## Overview of the School District Analysis
-The purpose of this project was to analyse the data of a School District, with the data about the schools and the students that go there. The school data contained the type, size, and budget of the school. The student data contained the gender, grade, school name, and reading and math scores. With this data we find missing information and fix it so that we can create data frames to visualize the data for the School District.
+The purpose of this project was to analyze the data of a School District, with the data about the schools and the students that go there. The school data contained the type, size, and budget of the school. The student data contained the gender, grade, school name, and reading and math scores. With this data we find missing information and fix it so that we can create data frames to visualize the data for the School District.
 ## Results
 With the potential of academic dishonesty in the Thomas High School by ninth grade students we inserted NaN to omit their data from the calculations. Below is the summary of the district after the ommision of the ninth graders scores.
 ![District Summary](https://user-images.githubusercontent.com/110861876/188739858-11561c3e-aa34-46bf-a1f2-f23f6fe2023f.png)
